@@ -1,0 +1,32 @@
+package com.love2code.demo.rest;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.love2code.demo.entity.Student;
+
+@RestController
+@RequestMapping("/api")
+public class StudentRestController {
+	
+	//define endpoint for "/student" -return list of students
+	
+	@GetMapping("/students")
+	public List<Student> getStudent(){
+		
+		List<Student> theStudent = new ArrayList<>();
+		theStudent.add(new Student("Peter","Nyguard"));
+		theStudent.add(new Student("Craig","Fergusin"));
+		theStudent.add(new Student("Butters","Banana"));
+
+		return null;
+		
+	}
+	
+	
+
+}

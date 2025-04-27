@@ -1,0 +1,55 @@
+package com.love2code.demo.rest;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.love2code.demo.entity.Student;
+
+import jakarta.annotation.PostConstruct;
+
+@RestController
+@RequestMapping("/api")
+public class StudentRestController {
+	
+	//define endpoint for "/student" -return list of students
+	private List<Student> theStudents = new ArrayList<>();
+	
+	//Define postConstruct so the bean is loaded only once when loaded
+	@PostConstruct
+	
+	public void loadData(){
+		theStudents = new ArrayList<>();
+
+		theStudents.add(new Student("Peter","Nyguard"));
+		theStudents.add(new Student("Craig","Fergusin"));
+		theStudents.add(new Student("Butters","Banana"));
+	}
+
+
+
+	//define endpoint for "/student" -return list of students
+	@GetMapping("/students")
+	public List<Student> getStudent(){
+		
+		
+		return theStudents;
+		
+	}
+	
+
+	//define endpoint for "/student/{studentID}" -return the student requested
+	@GetMapping("/students/studentId")
+	public Student getStudent(@PathVariable int studentId) {
+		
+		// just index into the list
+		
+		return theStudents.get(studentId);
+	}
+	
+
+}

@@ -1,0 +1,65 @@
+5:43:58 Memory Pressure: Moderate
+5:44:08 Memory Pressure: Moderate
+5:53:04 Memory Pressure: Moderate
+5:53:14 Memory Pressure: Moderate
+5:53:24 Memory Pressure: Moderate
+5:53:34 Memory Pressure: Moderate
+5:53:44 Memory Pressure: Moderate
+5:53:54 Memory Pressure: Moderate
+5:54:04 Memory Pressure: Moderate
+5:59:44 Memory Pressure: Moderate
+5:59:54 Memory Pressure: Moderate
+6:00:04 Memory Pressure: Moderate
+6:00:14 Memory Pressure: Moderate
+6:00:25 Memory Pressure: Moderate
+6:00:35 Memory Pressure: Moderate
+6:00:45 Memory Pressure: Moderate
+6:00:55 Memory Pressure: Moderate
+6:01:05 Memory Pressure: Moderate
+6:01:10 Memory Pressure: Critical
+6:01:15 Memory Pressure: Moderate
+6:01:25 Memory Pressure: Moderate
+6:01:35 Memory Pressure: Moderate
+6:01:45 Memory Pressure: Moderate
+6:01:55 Memory Pressure: Moderate
+6:02:05 Memory Pressure: Moderate
+6:02:15 Memory Pressure: Moderate
+6:02:25 Memory Pressure: Moderate
+6:02:35 Memory Pressure: Moderate
+6:02:45 Memory Pressure: Moderate
+6:02:55 Memory Pressure: Moderate
+6:03:05 Memory Pressure: Moderate
+6:03:15 Memory Pressure: Moderate
+6:03:25 Memory Pressure: Moderate
+6:03:35 Memory Pressure: Moderate
+6:03:45 Memory Pressure: Moderate
+6:03:55 Memory Pressure: Moderate
+6:04:05 Memory Pressure: Moderate
+6:04:15 Memory Pressure: Moderate
+8:39:16 Memory Pressure: Moderate
+8:52:10 Microsoft.Shutdown.OnWindowClosing
+8:52:10 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+8:52:10 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+8:52:10 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+8:52:10 Tab1 RenderProcessGone
+8:52:10 Browser1 Close Tab1 at 0
+8:52:10 Tab1 WebContentsDestroyed
+8:52:10 Microsoft.Shutdown.OnWindowClosing
+8:52:10 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+8:52:10 Widget Closed: BrowserFrame
+8:52:10 Microsoft.Shutdown.OnWindowClosing
+8:52:10 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+8:52:10 Microsoft.Browser_Removed
+8:52:10 Microsoft.Shutdown.OnWindowClosing
+8:52:10 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+8:52:10 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+8:52:10 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+8:52:10 Tab2 RenderProcessGone
+8:52:10 Browser2 Close Tab2 at 0
+8:52:10 Tab2 WebContentsDestroyed
+8:52:10 Microsoft.Shutdown.OnWindowClosing
+8:52:10 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+8:52:10 Widget Closed: BrowserFrame
+8:52:10 Microsoft.Shutdown.OnWindowClosing
+8:52:10 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+8:52:10 Microsoft.Browser_Removed

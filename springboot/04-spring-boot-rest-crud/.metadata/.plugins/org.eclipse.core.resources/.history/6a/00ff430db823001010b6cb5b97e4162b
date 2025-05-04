@@ -1,0 +1,5 @@
+package com.love2code.demo.rest;
+
+public class StudentNotFoundException {
+
+}

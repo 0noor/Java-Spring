@@ -1,0 +1,33 @@
+package com.luv2code.springboot.cruddemo.entity;
+
+import jakarta.persistence.GenerationType;
+
+@Entity
+@Table(name="employee")
+public class Employee {
+	
+	//define fields
+	private int id;
+	
+	@Id
+	
+	@GenetatedValue(strategy = GenerationType.IDENTITY)
+	
+	@Column(name="id")
+	private String firstName;
+	
+	
+	private String lastName;
+	
+	
+	private String Email;
+	
+	//define constructors
+	
+	//define getters and setters
+	
+	//dsefine toostring
+	
+	
+
+}

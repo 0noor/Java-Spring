@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\crypt\Documents\JAVA\springboot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-employee"/>
 			<item value="C:\Users\crypt\Documents\JAVA\springboot\04-spring-boot-rest-crud\01-spring-boot-rest-crud"/>
 			<item value="C:\Users\crypt\Documents\JAVA\springboot\04-spring-boot-rest-crud\01-spring-boot-rest-crud\src"/>
 		</list>
@@ -13,5 +14,9 @@
 			<item value="[groupId].[artifactId]-[version]"/>
 			<item value="[name]"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
 	</section>
 </section>

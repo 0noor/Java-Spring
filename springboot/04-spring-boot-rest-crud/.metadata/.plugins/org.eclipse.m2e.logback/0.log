@@ -1340,3 +1340,7 @@ org.eclipse.core.runtime.CoreException: Launch configuration DemoApplication (1)
 2025-05-04 18:41:43,473 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-05-04 18:41:43,658 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-05-04 18:41:43,665 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\noorh\Documents\GitHub\Java-Spring\springboot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-employee\src\test\resources
+2025-05-07 10:19:33,885 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-05-07 10:21:30,444 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-05-07 10:21:30,483 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-05-07 10:21:30,493 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\noorh\Documents\GitHub\Java-Spring\springboot\04-spring-boot-rest-crud\02-spring-boot-rest-crud-employee\src\test\resources

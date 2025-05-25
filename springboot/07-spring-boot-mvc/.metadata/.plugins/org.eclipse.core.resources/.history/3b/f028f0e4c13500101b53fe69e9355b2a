@@ -1,0 +1,14 @@
+package com.luv2code.springboot.thymeleafdemo.controller;
+
+import org.springframework.ui.Model;
+
+public class StudentController {
+	
+	
+	@GetMapping("/showSudentForm")
+	public String showForm(Model theModel) {
+		
+		
+		return "student-form";
+	}
+}

@@ -1,2 +1,3 @@
-2025/05/22-17:19:04.454 8c0 Creating DB C:\Users\crypt\Documents\JAVA\springboot\06-spring-boot-spring-mvc\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db since it was missing.
-2025/05/22-17:19:04.502 8c0 Reusing MANIFEST C:\Users\crypt\Documents\JAVA\springboot\06-spring-boot-spring-mvc\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2025/05/28-16:08:55.058 1134 Reusing MANIFEST C:\Users\crypt\Documents\JAVA\springboot\07-spring-boot-mvc\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/MANIFEST-000001
+2025/05/28-16:08:55.058 1134 Recovering log #3
+2025/05/28-16:08:55.059 1134 Reusing old log C:\Users\crypt\Documents\JAVA\springboot\07-spring-boot-mvc\.metadata\.plugins\org.eclipse.swt\EBWebView\Default\shared_proto_db/000003.log 

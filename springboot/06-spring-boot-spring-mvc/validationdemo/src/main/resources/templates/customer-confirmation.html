@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Confirmation</title>
+</head>
+<body>
+    
+	Customer has been confirmed: <span th:text="${customer.firstName + ' ' + customer.lastName}" />
+	<br><br>
+	
+	Free Passes: <span th:text="${customer.freePasses}" />
+	<br><br>
+
+	Postal Code: <span th:text="${customer.postalCode}" />
+	
+	<br><br>
+
+	Course Code: <span th:text="${customer.courseCode}" />
+
+
+</body> </html>

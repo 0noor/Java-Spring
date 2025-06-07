@@ -42,12 +42,20 @@
 					<td th:text="${tempEmployees.email}">
 					<!-- Update button link -->
 					<td>
-						<a th:href="@{/employees/showFormForUpdate(employeeId=${tempEmployee})}"
+						<a th:href="@{/employees/showFormForUpdate(employeeId=${tempEmployees.id})}"
 							class="btn btn-info btn-sm">
 							Update
 						</a>
+						
+						<!-- delete button link -->
+					
+						<a th:href="@{/employees/delete(employeeId=${tempEmployees.id})}"
+							class="btn btn-danger btn-sm"
+							onclick="if (!( confirm('Are you sure you want to delete this employee?'))) return false">
+							Delete
+						</a>
 					</td>
-
+					
 			</tbody>
 			
 			

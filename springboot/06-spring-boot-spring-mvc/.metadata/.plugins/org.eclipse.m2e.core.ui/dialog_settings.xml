@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/Users/noorh/Documents/GitHub/Java-Spring/springboot/06-spring-boot-spring-mvc/01-thymeleafdemo-helloworld"/>
 			<item value="C:\Users\crypt\Documents\JAVA\springboot\07-spring-boot-mvc\validationdemo"/>
 			<item value="C:\Users\noorh\Documents\GitHub\Java-Spring\springboot\07-spring-boot-mvc\validationdemo"/>
 			<item value="C:\Users\noorh\Documents\GitHub\Java-Spring\springboot\07-spring-boot-mvc\01-thymeleafdemo-helloworld"/>
